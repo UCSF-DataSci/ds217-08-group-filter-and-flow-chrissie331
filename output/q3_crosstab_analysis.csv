@@ -1,0 +1,46 @@
+,facility_type,encounter_type,region,count,row_total,percentages_of_row
+20,Specialty Center,Emergency,South,236,418,56.46
+27,Urgent Care,Lab,South,229,547,41.86
+42,Urgent Care,Lab,West,228,547,41.68
+44,Urgent Care,Outpatient Procedure,West,215,507,42.41
+22,Specialty Center,Lab,South,211,391,53.96
+21,Specialty Center,Inpatient,South,210,401,52.37
+41,Urgent Care,Inpatient,West,201,481,41.79
+38,Specialty Center,Office Visit,West,200,375,53.33
+43,Urgent Care,Office Visit,West,200,490,40.82
+40,Urgent Care,Emergency,West,195,494,39.47
+24,Specialty Center,Outpatient Procedure,South,194,387,50.13
+39,Specialty Center,Outpatient Procedure,West,193,387,49.87
+36,Specialty Center,Inpatient,West,191,401,47.63
+25,Urgent Care,Emergency,South,190,494,38.46
+26,Urgent Care,Inpatient,South,190,481,39.5
+29,Urgent Care,Outpatient Procedure,South,183,507,36.09
+35,Specialty Center,Emergency,West,182,418,43.54
+37,Specialty Center,Lab,West,180,391,46.04
+28,Urgent Care,Office Visit,South,178,490,36.33
+23,Specialty Center,Office Visit,South,175,375,46.67
+15,Hospital,Emergency,South,127,127,100.0
+13,Urgent Care,Office Visit,North,112,490,22.86
+10,Urgent Care,Emergency,North,109,494,22.06
+14,Urgent Care,Outpatient Procedure,North,109,507,21.5
+19,Hospital,Outpatient Procedure,South,102,102,100.0
+17,Hospital,Lab,South,100,100,100.0
+16,Hospital,Inpatient,South,95,95,100.0
+12,Urgent Care,Lab,North,90,547,16.45
+11,Urgent Care,Inpatient,North,90,481,18.71
+18,Hospital,Office Visit,South,85,85,100.0
+6,Specialty Center,Inpatient,North,0,401,0.0
+9,Specialty Center,Outpatient Procedure,North,0,387,0.0
+8,Specialty Center,Office Visit,North,0,375,0.0
+5,Specialty Center,Emergency,North,0,418,0.0
+2,Hospital,Lab,North,0,100,0.0
+3,Hospital,Office Visit,North,0,85,0.0
+4,Hospital,Outpatient Procedure,North,0,102,0.0
+0,Hospital,Emergency,North,0,127,0.0
+1,Hospital,Inpatient,North,0,95,0.0
+7,Specialty Center,Lab,North,0,391,0.0
+33,Hospital,Office Visit,West,0,85,0.0
+30,Hospital,Emergency,West,0,127,0.0
+34,Hospital,Outpatient Procedure,West,0,102,0.0
+31,Hospital,Inpatient,West,0,95,0.0
+32,Hospital,Lab,West,0,100,0.0
